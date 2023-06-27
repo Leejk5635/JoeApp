@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get "/", to "main#index"
+  get "/main", to "main#index"
 end
